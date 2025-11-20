@@ -1,4 +1,4 @@
-# Ex. No: 15D - Build a Heap Tree Using Python
+# Ex. No: 15C - Build a Heap Tree Using Python
 
 ## AIM:
 To write a Python program to build a heap tree using appropriate Python package and function.
@@ -19,6 +19,9 @@ To write a Python program to build a heap tree using appropriate Python package 
 ## PROGRAM:
 
 ```
+#REG NO: 212223020002
+#NAME:  ANUSRI SRIDHAR
+
 import heapq
 def heaptree(H):
     heapq.heapify(H)
